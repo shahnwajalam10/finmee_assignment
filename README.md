@@ -5,17 +5,17 @@ This is a multi-page frontend project built using **vanilla HTML, CSS, and JavaS
 ---
 
 ## 📁 Folder Structure
+```text
 ntwist-frontend-assignment/
-├── index.html # Page 1 – Responsive Form with Validation
-├── sort.html # Page 2 – Sortable List Viewer with custom JavaScript sorting
-├── faq.html # Page 3 – FAQ Accordion built using only HTML and CSS
+├── index.html             # Page 1 – Responsive Form with Validation
+├── sort.html              # Page 2 – Sortable List Viewer with custom JavaScript sorting
+├── faq.html               # Page 3 – FAQ Accordion built using only HTML and CSS
 ├── assets/
-│ ├── css/
-│ │ └── style.css # Common styling for all pages
-│ └── js/
-│ └── script.js # JavaScript logic for form interaction and sorting
-└── README.md # Project documentation
-
+│   ├── css/
+│   │   └── style.css      # Common styling for all pages
+│   └── js/
+│       └── script.js      # JavaScript logic for form interaction and sorting
+└── README.md              # Project documentation
 
 ---
 
