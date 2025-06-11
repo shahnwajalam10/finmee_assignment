@@ -95,7 +95,7 @@ ntwist-frontend-assignment/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/ntwist-frontend-assignment.git
+   https://github.com/shahnwajalam10/finmee_assignment/tree/main
 
 2. **Navigate into the project folder**
 cd ntwist-frontend-assignment
@@ -114,6 +114,7 @@ cd ntwist-frontend-assignment
 
 👨‍💻 Author
 Name: Shahnwaj Alam
+
 Email: shahnwajalam10@gmail.com
 
 
