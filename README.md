@@ -113,9 +113,8 @@ cd ntwist-frontend-assignment
 🔗 GitHub Repository
 
 👨‍💻 Author
-Name: Shahnwaj Alam
-
-Email: shahnwajalam10@gmail.com
+    Name: Shahnwaj Alam
+    Email: shahnwajalam10@gmail.com
 
 
 ---
