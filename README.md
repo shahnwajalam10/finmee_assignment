@@ -120,6 +120,5 @@ cd ntwist-frontend-assignment
 
 ---
 
-Let me know if you'd like this README customized with your real GitHub username, name, and email—or exported as a downloadable `.md` file.
 
 
